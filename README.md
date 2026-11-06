@@ -43,3 +43,8 @@ phân quyền, lịch sử giao việc hoặc xác nhận trước nút xóa. Kh
 Các kiểm thử tự động của bộ tài liệu dùng PHP 8.3 và SQLite trên bản sao chỉ dành
 cho kiểm tra luồng xử lý; không thay thế kiểm thử MySQL 8 và triển khai EC2 thực tế.
 Khi dùng MySQL, chạy đủ bảng kiểm thử trong hướng dẫn. Không cần SQLite để triển khai.
+## Kết quả kiểm thử Local
+
+- Khởi chạy ứng dụng PHP thành công.
+- Kết nối cơ sở dữ liệu MySQL thành công.
+- Giao diện quản lý công việc hiển thị bình thường.
